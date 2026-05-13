@@ -1,4 +1,4 @@
-# Practica [MAIN]
+# Practica [MAIN + DEMO]
 Учебный проект по практике
 ## О технологии
 
