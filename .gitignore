@@ -1,0 +1,44 @@
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+*.swp
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains
+.idea/
+*.iml
+
+# Visual Studio
+bin/
+obj/
+*.suo
+*.user
+
+# Temporary files and logs
+*.log
+*.tmp
+*.temp
+logs/
+temp/
+tmp/
+
+# Office temporary files
+~$*.docx
+~$*.xlsx
+
+# Dependencies and build artifacts
+node_modules/
+dist/
+build/
